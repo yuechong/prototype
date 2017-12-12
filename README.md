@@ -2,6 +2,7 @@
 
 if(!object){
     var object = function(prototype){
+    
         function F(){}
 
         F.prototype = prototype;
