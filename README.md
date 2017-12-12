@@ -1,6 +1,7 @@
 # prototype
 
 var inheritClass = (function(){
+
     if(!object){
         var object = function(prototype){
             function F(){}
